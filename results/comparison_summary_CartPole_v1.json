@@ -1,0 +1,20 @@
+{
+  "DQN (Raw States)": {
+    "total_episodes": 50,
+    "best_eval_reward": 58.0,
+    "best_episode": 25,
+    "final_mean_reward": 25.9,
+    "final_std_reward": 16.12234474262351,
+    "max_reward": 80.0,
+    "convergence_episode": 50
+  },
+  "DQN + Autoencoder": {
+    "total_episodes": 50,
+    "best_eval_reward": 47.0,
+    "best_episode": 25,
+    "final_mean_reward": 24.94,
+    "final_std_reward": 13.385678914421936,
+    "max_reward": 62.0,
+    "convergence_episode": 50
+  }
+}
